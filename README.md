@@ -6,9 +6,6 @@
   <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-DOSSIER-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" style="margin: 2px;">
   </a>
-  <a href="https://vyniqq.github.io/shopping-cart-manager/" target="_blank">
-    <img src="https://img.shields.io/badge/NEMESIS--CART-SYSTEM_LIVE-000000?style=for-the-badge&logo=firebase&logoColor=red&labelColor=1f1f1f" style="margin: 2px;">
-  </a>
 </div>
 
 <br>
@@ -55,7 +52,7 @@ I am Vinicius, a 16-year-old developer from Brazil. Currently deepening my studi
 
 ### 🧪 Featured Experiments
 
-**🛒 Shopping Cart Manager](https://vyniqq.github.io/shopping-cart-manager/)**
+**🛒 [[PROJECT] Shopping Cart Manager](https://vyniqq.github.io/shopping-cart-manager/)**
 > A system built to manage household grocery organization and predict budget inflation using average price algorithms. Implements custom session tokens and invite protocols.
 > 
 > 🌐 **[➔ ACCESS SYSTEM TERMINAL](https://vyniqq.github.io/shopping-cart-manager/)**
