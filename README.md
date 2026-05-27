@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ae55929d-f526-4673-955b-b80af2a05119" alt="Resident Evil Banner" style="width: 95%; height: 1000px; display: block; margin-top: 0;">
+  <img src="https://github.com/user-attachments/assets/ae55929d-f526-4673-955b-b80af2a05119" alt="Resident Evil Banner" style="width: 95%; height: 265px; display: block; margin-top: 0;">
   
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=20&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=50&lines=Seek+the+G-Virus+to+transcend+the+infrastructure...;Welcome+to+the+Umbrella+Corp+Database..." alt="Typing effect" />
   <br>
