@@ -1,7 +1,7 @@
 <div align="center">
-  <img width="686" height="386" alt="Image" src="https://github.com/user-attachments/assets/ae55929d-f526-4673-955b-b80af2a05119" />
+  <img src="https://github.com/user-attachments/assets/ae55929d-f526-4673-955b-b80af2a05119" alt="Resident Evil Banner" style="width: 100%; height: 250px; object-fit: cover; display: block; margin-top: 0;">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=20&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=50&lines=Extracting+G-Virus+Core+Logic...;Injecting+Backend+Protocols...;Welcome+to+the+Umbrella+Corp+Database..." alt="Typing effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=20&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=50&lines=Seek+the+G-Virus+to+transcend+the+infrastructure...;Welcome+to+the+Umbrella+Corp+Database..." alt="Typing effect" />
   <br>
   <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-DOSSIER-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000">
